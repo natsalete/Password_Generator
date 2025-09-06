@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="gerador_de_senhas">Gerador de Senhas</string>
+    <string name="senha_gerada">Senha Gerada:</string>
+    <string name="clique_em_gerar_senha">Clique em \'Gerar Senha\'</string>
+    <string name="gerar_senha">Gerar Senha</string>
+    <string name="copiar">Copiar</string>
+    <string name="configura_es">Configurações</string>
+    <string name="comprimento_da_senha">Comprimento da Senha</string>
+    <string name="_12">12</string>
+    <string name="incluir_caracteres">Incluir Caracteres</string>
+    <string name="letras_mai_sculas">Letras Maiúsculas</string>
+    <string name="a_z">A-Z</string>
+    <string name="letras_min_sculas">Letras Minúsculas</string>
+    <string name="a_z_min">a-z</string>
+    <string name="n_meros">Números</string>
+    <string name="_0_9">0-9</string>
+    <string name="s_mbolos">Símbolos</string>
+    <string name="amp"><![CDATA[!@#$%^&*]]></string>
+    <string name="excluir_caracteres_similares">Excluir Caracteres Similares</string>
+    <string name="i_l_1_l_o_0_o">i, l, 1, L, o, 0, O</string>
+    <string name="for_a_da_senha">Força da Senha</string>
+    <string name="clique_em_gerar_senha_2">Clique em \'Gerar Senha\'</string>
+</resources>
+
