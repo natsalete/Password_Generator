@@ -1,4 +1,4 @@
-# 🔐 Password Generator - Android
+# Password Generator - Android
 
 A modern and intuitive Android app for generating secure and customizable passwords, developed in Kotlin with Material Design.
 
@@ -265,7 +265,7 @@ Developed with ❤️ by [Natalia Salete](https://github.com/natsalete)
 <details>
 <summary>🇧🇷 Versão em Português</summary>
 
-# 🔐 Gerador de Senhas - Android
+# Gerador de Senhas - Android
 
 Um aplicativo Android moderno e intuitivo para gerar senhas seguras e personalizáveis, desenvolvido em Kotlin com Material Design.
 
@@ -274,7 +274,6 @@ Um aplicativo Android moderno e intuitivo para gerar senhas seguras e personaliz
 <p align="center">
   <img src="https://github.com/user-attachments/assets/155b915d-4d87-43e8-9c22-3e571a047e0d" alt="WhatsApp Image 2025-09-06 at 00 08 02" width="400"/>
 </p>
-> **Nota:** Adicione aqui capturas de tela do aplicativo em funcionamento
 
 ## ✨ Funcionalidades
 
